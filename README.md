@@ -13,7 +13,7 @@
   * [Core Maintainers](#core-maintainers)
 * [Licensing](#licensing)
   * [Third Party Licenses](#third-party-licenses)
-* [Credits](#credits)
+* [Credits](#credits )
 
 ## What is it?
 `shirobot.xyz` is a sexy moe Discord bot, that is coming soon.
