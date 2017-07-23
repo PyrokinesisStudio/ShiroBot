@@ -47,4 +47,4 @@ Currently, you can contribute to this project by:
 * [![Build Status](https://github.com/fkndean.png?size=36) - fkndean](https://github.com/fkndean)
 
 ## Credits
-    AeonLucid, codeM0nkey - .NET Master Senpaitachis
+    AeonLucid, codeM0nkey
